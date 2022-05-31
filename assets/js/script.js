@@ -1,5 +1,5 @@
 const question = document.getElementById(question)
-const choices = Array.from(document.getElementsByClassName("selection-text");
+const selection = Array.from(document.getElementsByClassName("selection-text");
 console.log(selections);
 
 let currentQuestion = {};
